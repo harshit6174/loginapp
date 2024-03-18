@@ -5,7 +5,7 @@ Hello everyone, In this project, I have created **MERN Stack App with Login & Au
 
 ## To run this project in your local machine 
 
-After cloning this project into your local machine,create two configuration files into the project.
+Clone this project and create two configuration files into the project.
 First in the client and second in the server.
 
 In the Client Folder create .env file and put this code inside it.
